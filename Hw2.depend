@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523262998 source:c:\users\hp 440g3\desktop\hw2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<string.h>
+	<iterator>
+
